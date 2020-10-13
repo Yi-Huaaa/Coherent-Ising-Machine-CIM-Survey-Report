@@ -85,11 +85,7 @@ G22, G39, K2000圖的定義：
 
 
 ## Introduction for CIM (2013)
-(數學理論放棄)
-
-## Large-scale Coherent Ising Machine (2019-2)
-(先不要做)
-
+(整理在另外一篇)
 
 ## 專有名詞補充
 1. minimum-gain principle
